@@ -1,2 +1,3 @@
 # sample
-Learni GitHub.
+Learning GitHub.
+Step by step.
